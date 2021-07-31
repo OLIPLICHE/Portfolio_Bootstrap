@@ -4,14 +4,18 @@ body {
   padding: 0;
 }
 
-h1, h2, h3, h4, h5, h6, pre {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+pre {
   font-family: "Poppins", sans-serif;
 }
 
 /*Top section*/
-.top-section {
-  
-}
+.top-section {}
 
 #header .container-fluid {
   text-align: left;
@@ -30,13 +34,13 @@ h1, h2, h3, h4, h5, h6, pre {
 }
 
 /*.headline-main-container*/
-
 #header .headline-main-container {
   height: 100%;
   width: 100%;
   margin: 0 auto;
   padding-top: 280px;
-  padding-bottom: 100px;;
+  padding-bottom: 100px;
+  ;
   background-position: center;
 }
 
