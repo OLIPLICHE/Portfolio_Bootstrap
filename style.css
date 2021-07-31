@@ -14,9 +14,6 @@ pre {
   font-family: "Poppins", sans-serif;
 }
 
-/*Top section*/
-.top-section {}
-
 #header .container-fluid {
   text-align: left;
   padding: 3% 5% 4%;
@@ -28,12 +25,10 @@ pre {
   background-repeat: no-repeat;
 }
 
-/*Navbar-section*/
 .navbar {
   padding: 0 0 2.5rem;
 }
 
-/*.headline-main-container*/
 #header .headline-main-container {
   height: 100%;
   width: 100%;
