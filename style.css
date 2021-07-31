@@ -1,0 +1,83 @@
+body {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+pre {
+  font-family: "Poppins", sans-serif;
+}
+
+#header .container-fluid {
+  text-align: left;
+  padding: 3% 5% 4%;
+}
+
+.img-fluid {
+  background-image: url(images/Headerbg.svg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.navbar {
+  padding: 0 0 2.5rem;
+}
+
+#header .headline-main-container {
+  height: 100%;
+  width: 100%;
+  margin: 0 auto;
+  padding-top: 280px;
+  padding-bottom: 100px;
+  background-position: center;
+}
+
+.welcome {
+  width: 100%;
+  height: 122px;
+  font-size: 48px;
+  line-height: 60px;
+  align-items: center;
+  letter-spacing: 0.37px;
+  display: inline-block;
+  font-weight: bold;
+  color: #172b4d;
+}
+
+.introduction1 {
+  width: 82%;
+  padding-top: 12px;
+  height: 98px;
+  font-size: 50px;
+  line-height: 28px;
+  color: #344563;
+  display: inline-block;
+}
+
+.link-up {
+  margin-top: 1rem;
+}
+
+.link-up h2 {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  color: #6070ff;
+  padding: 0.5rem 0;
+}
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  gap: 16px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+}
